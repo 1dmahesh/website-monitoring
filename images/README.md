@@ -10,4 +10,5 @@ If not enabled, enable it and now you can receive alerts on your mail.
 
 # Image information.
 
-A sample of the received alert is attached as `website-monitoring-mail.png`.
+A sample of the received alert is attached as 
+![alt tag](https://github.com/1dmahesh/website-monitoring/blob/main/images/website-monitoring-mail.png).
