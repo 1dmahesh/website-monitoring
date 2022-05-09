@@ -31,7 +31,7 @@ To receive alerts on email, go to the Images folder.
 
 # EXECUTING THE SCRIPT 
 
-To run the script, Use the below command..
+To run the script, First go inside the **scripts** folder & Use the below command..
 
 `python .\website-monitoring.py`
 
