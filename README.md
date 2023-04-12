@@ -23,11 +23,6 @@
  
  In **URL** , You can add multiple websites, that you want to monitor.
   
- If more than 2 websites are added in **URL**, then update **responce** variable according to the website count in **URL**.
- 
- For more websites you can copy `responce_code()` function and update the values in it.
-
-To receive alerts on email, go to the Images folder.
 
 # EXECUTING THE SCRIPT 
 
